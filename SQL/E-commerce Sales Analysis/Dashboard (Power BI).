@@ -1,0 +1,45 @@
+# Power BI Dashboard – E-Commerce Sales Analysis
+
+## Dashboard Purpose
+This dashboard provides an interactive view of e-commerce sales performance,
+focusing on product pricing, order volume, and revenue contribution.
+
+It is designed to help stakeholders quickly identify high-value products,
+revenue drivers, and pricing trends.
+
+---
+
+## Key KPIs
+- Total Orders Placed
+- Total Revenue Generated
+- Average Product Price
+
+---
+
+## Dashboard Features
+- Dynamic slicers for product category, product price, and order value
+- Product price comparison across categories
+- Revenue and order volume by product
+- High-value order identification using threshold filters
+
+---
+
+## How to Use the Dashboard
+1. Use slicers to filter by category or price range
+2. Review KPIs for high-level performance
+3. Explore charts and tables for product-level insights
+4. Identify premium orders using the price threshold slicer
+
+---
+
+## Data Model
+- Products table → dimension table
+- Orders table → fact table
+- Relationship: Products[product_id] → Orders[product_id]
+
+---
+
+## Tools Used
+- Power BI Desktop
+- DAX measures for KPIs
+- SQL-exported CSV files
