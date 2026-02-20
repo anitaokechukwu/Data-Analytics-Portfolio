@@ -23,9 +23,7 @@ This folder contains data analysis projects completed using **Python**.
 Projects include Jupyter notebooks and Python scripts with clear explanations.
 
 
-| Project | Description | Link |
-|---------|------------|------|
-| Cookies Sales Analysis | Exploratory sales data analysis using Python | [View Project](https://github.com/anitaokechukwu/cookies-sales-analysis) |
+
 
 
 
