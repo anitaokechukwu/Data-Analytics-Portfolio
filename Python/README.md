@@ -22,7 +22,23 @@ This folder contains data analysis projects completed using **Python**.
 
 Projects include Jupyter notebooks and Python scripts with clear explanations.
 
+## 🍪 Cookies Sales Data Analysis
 
+🔗 Project Repository: https://github.com/anitaokechukwu/cookies-project-Cookie Project.ipynb
+
+### Tools Used:
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+### Project Summary:
+Performed data cleaning, exploratory data analysis, and generated insights on cookie sales trends, revenue performance, and customer behavior.
+
+### Key Insights:
+- Identified highest sales day
+- Analyzed revenue distribution
+- Visualized sales trends
 
 
 
