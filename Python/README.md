@@ -25,7 +25,7 @@ Projects include Jupyter notebooks and Python scripts with clear explanations.
 
 | Project | Description | Link |
 |---------|------------|------|
-| Cookies Sales Analysis | Exploratory sales data analysis using Python | [View Project](https://github.com/yourusername/cookies-sales-analysis) |
+| Cookies Sales Analysis | Exploratory sales data analysis using Python | [View Project](https://github.com/anitaokechukwu/cookies-sales-analysis) |
 
 
 
