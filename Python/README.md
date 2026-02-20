@@ -24,7 +24,7 @@ Projects include Jupyter notebooks and Python scripts with clear explanations.
 
 ## 🍪 Cookies Sales Data Analysis
 
-🔗 Project Repository: https://github.com/anitaokechukwu/Python-Project-pages-/blob/main/Cookie%20Project.ipynb
+🔗 Project Repository: https://github.com/anitaokechukwu/Python-Project-pages-
 
 ### Tools Used:
 - Python
