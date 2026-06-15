@@ -1,0 +1,19 @@
+Diabetes Distribution,,,Average Age by Outcome,,,
+Row Labels,Count of Outcome,,Row Labels,Average of Age,,
+0,500,,0,31.19,,
+1,268,,1,37.06716418,,
+Grand Total,768,,Grand Total,33.24088542,,
+,,,,,,
+Average Glucose by Outcome,,,Average Family History by Outcome,,,
+Row Labels,Average of Glucose,,Row Labels,Average of DiabetesPedigreeFunction,,
+0,110.682,,0,0.429734,,
+1,142.130597,,1,0.5505,,
+Grand Total,121.65625,,Grand Total,0.471876302,,
+,,,,,,
+Average BMI by Outcome,,,Diabetes by Age Group,,,
+Row Labels,Average of BMI,,Count of Outcome,Column Labels,,
+0,30.8856,,Row Labels,0,1,Grand Total
+1,35.38358209,,Middle Age,142,141,283
+Grand Total,32.45520833,,Senior,46,43,89
+,,,Young,312,84,396
+,,,Grand Total,500,268,768
